@@ -1,6 +1,6 @@
 # 🎮 Tiki-Taka-Toe ⚽  
 
-**Live 🔗:** [Play the Game](https://laoluah.github.io/Tiki-Taka-Toe---Orange/)
+**Live 🔗:** [Play the Game]([https://laoluah.github.io/Tiki-Taka-Toe---Orange/](https://laoluah.github.io/Orange-Blue-Tiki-Taka-Toe-Twist/))
 
 I've named this **Tiki-Taka Toe**, giving a pun on the regular game due to my love of football!  
 This is a modern and feature-rich Tic-Tac-Toe game with a scoreboard, target wins, and avatar selection.  
